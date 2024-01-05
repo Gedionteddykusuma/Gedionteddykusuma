@@ -1,8 +1,8 @@
 ### Hi,I’m Gedion.<br/> 
 
 • I'm a Junior Web Developer.<br/> 
-• Current Programming language is PHP and Javascript, Html,css <br/>
-• I am 22 years old and still passionate about learning.</br>
+• Current Programming language is     PHP and Javascript, Html,css <br/>
+• I am 22 years old and still         passionate about learning.</br>
 ![Alt text](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
  
 
